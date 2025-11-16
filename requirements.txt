@@ -1,0 +1,6 @@
+conda create --name BSP python=3.10.15
+pip install torch-2.5.1+cu118-cp310-cp310-linux_x86_64.whl
+scikit-learn==1.5.2
+transformers==4.46.3
+pandas==2.2.3
+accelarate==1.2.0
